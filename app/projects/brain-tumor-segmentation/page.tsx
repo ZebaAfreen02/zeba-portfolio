@@ -85,7 +85,7 @@ export default function BrainTumorSegmentationPage() {
         <figure className="mt-14 overflow-hidden rounded-2xl border border-[#DFE4E0] bg-[#EEE9EC] p-5 md:p-10">
           <div className="relative aspect-[3/2] w-full">
             <Image
-              src="/images/brain-tumor-segmentation-v2.png"
+              src="/Images/brain-tumor-segmentation-v2.png"
               alt="Multi-modal brain MRI scans with ground truth and predicted tumor segmentation masks"
               fill
               sizes="(max-width: 768px) 100vw, 900px"

@@ -107,7 +107,7 @@ export default function CloudVsOwnedPage() {
         <figure className="mt-14 overflow-hidden rounded-2xl border border-[#DFE4E0] bg-white p-5 md:p-10">
           <div className="relative aspect-[3/2] w-full">
             <Image
-              src="/images/netflix-rent-vs-own.png"
+              src="/Images/netflix-rent-vs-own.png"
               alt="Five-year Netflix origin-tier infrastructure cost comparison for cloud and owned servers across three workload scenarios"
               fill
               sizes="(max-width: 768px) 100vw, 900px"

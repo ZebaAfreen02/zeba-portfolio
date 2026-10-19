@@ -104,7 +104,7 @@ export default function OnlineAuctionPage() {
         <figure className="mt-14 overflow-hidden rounded-2xl border border-[#DFE4E0] bg-white p-5 md:p-10">
           <div className="relative aspect-[3/2] w-full">
             <Image
-              src="/images/justbidit-marketplace.png"
+              src="/Images/justbidit-marketplace.png"
               alt="JustBidIt online auction marketplace interface showing item listings"
               fill
               sizes="(max-width: 768px) 100vw, 900px"

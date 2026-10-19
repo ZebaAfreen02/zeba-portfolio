@@ -98,7 +98,7 @@ export default function RobotLocalizationPage() {
         <figure className="mt-14 overflow-hidden rounded-2xl border border-[#DFE4E0] bg-white p-5 md:p-10">
           <div className="relative aspect-[3/2] w-full">
             <Image
-              src="/images/robot-localization-policies.png"
+              src="/Images/robot-localization-policies.png"
               alt="Comparison of robot localization policies pi zero, pi one, and pi two across belief-set sizes"
               fill
               sizes="(max-width: 768px) 100vw, 900px"

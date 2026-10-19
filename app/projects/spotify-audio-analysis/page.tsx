@@ -80,7 +80,7 @@ export default function SpotifyAudioAnalysisPage() {
         <figure className="mt-14 overflow-hidden rounded-2xl border border-[#DFE4E0] bg-white p-5 md:p-10">
           <div className="relative aspect-[3/2] w-full">
             <Image
-              src="/images/spotify-umap.png"
+              src="/Images/spotify-umap.png"
               alt="UMAP visualization of Spotify tracks based on audio features"
               fill
               sizes="(max-width: 768px) 100vw, 900px"

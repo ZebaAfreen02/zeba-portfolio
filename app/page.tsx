@@ -12,7 +12,7 @@ const featuredProjects = [
     technologies: ["Python", "U-Net", "TensorFlow", "Computer Vision"],
     metrics: ["369 patients", "57K+ MRI slices", "0.88 validation Dice"],
     accent: "bg-[#EEE7EA]",
-    image: "/images/brain-tumor-segmentation-v2.png",
+    image: "/Images/brain-tumor-segmentation-v2.png",
   },
   {
     number: "02",
@@ -24,7 +24,7 @@ const featuredProjects = [
     technologies: ["Python", "PCA", "UMAP", "GMM", "VAE"],
     metrics: ["114K tracks", "114 genres", "3D latent space"],
     accent: "bg-[#F1EBDD]",
-    image: "/images/spotify-umap.png",
+    image: "/Images/spotify-umap.png",
   },
   {
     number: "03",
@@ -36,7 +36,7 @@ const featuredProjects = [
     technologies: ["Python", "PyTorch", "CNN", "A*"],
     metrics: ["47,570 samples", "200 mazes", "3 policies"],
     accent: "bg-[#E8EEEA]",
-    image: "/images/robot-localization-concept.png",
+    image: "/Images/robot-localization-concept.png",
     github: "https://github.com/sridevi-mr25/Space-Rats",
   },
   {
@@ -49,7 +49,7 @@ const featuredProjects = [
     technologies : ["React", "Python", "Flask", "MySQL"],
     metrics: ["Full-stack application", "Automatic bidding", "Role-based access"],
     accent: "bg-[#E8EDF2]",
-    image: "/images/justbidit-marketplace.png",
+    image: "/Images/justbidit-marketplace.png",
     github: "https://github.com/shashwatijha/JustBidIt",
     demo: "https://youtu.be/2yrfb0eTMiA",
   },
@@ -72,7 +72,7 @@ const featuredProjects = [
     "3 workload scenarios",
   ],
   accent: "bg-[#E5EAE4]",
-  image: "/images/netflix-rent-vs-own.png",
+  image: "/Images/netflix-rent-vs-own.png",
 },
 
   
