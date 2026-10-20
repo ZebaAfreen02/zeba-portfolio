@@ -373,6 +373,8 @@ export default function CloudVsOwnedPage() {
           </section>
         </div>
 
+        
+
         <footer className="mt-24 flex flex-wrap items-center justify-between gap-5 border-t border-[#DFE4E0] pt-8">
           <Link
             href="/#projects"
@@ -380,13 +382,16 @@ export default function CloudVsOwnedPage() {
           >
             ← All projects
           </Link>
+
           <Link
-            href="/projects/online-auction-system"
+            href="/projects/brain-tumor-segmentation"
             className="text-sm font-medium text-[#668B81] hover:text-[#202728]"
           >
-            ← Previous case study
+            Next project →
           </Link>
         </footer>
+
+
       </div>
     </main>
   );

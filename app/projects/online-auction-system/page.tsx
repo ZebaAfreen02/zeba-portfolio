@@ -288,6 +288,7 @@ export default function OnlineAuctionPage() {
           </section>
         </div>
 
+        
         <footer className="mt-24 flex flex-wrap items-center justify-between gap-5 border-t border-[#DFE4E0] pt-8">
           <Link
             href="/#projects"
@@ -295,13 +296,15 @@ export default function OnlineAuctionPage() {
           >
             ← All projects
           </Link>
+
           <Link
-            href="/projects/robot-localization"
+            href="/projects/cloud-vs-owned-infrastructure"
             className="text-sm font-medium text-[#668B81] hover:text-[#202728]"
           >
-            ← Previous case study
+            Next project →
           </Link>
         </footer>
+
       </div>
     </main>
   );

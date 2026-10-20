@@ -189,6 +189,7 @@ export default function BrainTumorSegmentationPage() {
           </section>
         </div>
 
+        
         <footer className="mt-24 flex flex-wrap items-center justify-between gap-5 border-t border-[#DFE4E0] pt-8">
           <Link
             href="/#projects"
@@ -198,12 +199,13 @@ export default function BrainTumorSegmentationPage() {
           </Link>
 
           <Link
-            href="/#projects"
+            href="/projects/spotify-audio-analysis"
             className="text-sm font-medium text-[#668B81] hover:text-[#202728]"
           >
-            Explore more projects ↗
+            Next project →
           </Link>
         </footer>
+
       </div>
     </main>
   );
