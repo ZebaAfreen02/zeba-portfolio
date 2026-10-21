@@ -9,10 +9,11 @@ const featuredProjects = [
     description:
     "Built a U-Net pipeline to segment brain tumor regions from multi-modal MRI scans. Trained and evaluated the model using segmentation metrics, achieving approximately 0.88 validation Dice.",
     category: "Deep Learning / Computer Vision",
-    technologies: ["Python", "U-Net", "TensorFlow", "Computer Vision"],
+    technologies: ["Python", "PyTorch", "U-Net", "Computer Vision"],
     metrics: ["369 patients", "57K+ MRI slices", "0.88 validation Dice"],
     accent: "bg-[#EEE7EA]",
     image: "/Images/brain-tumor-segmentation-v2.png",
+    github: "https://github.com/ZebaAfreen02/Brain-Tumor-Segmentation",
   },
   {
     number: "02",
@@ -21,10 +22,11 @@ const featuredProjects = [
     description:
     "Analyzed 114K Spotify tracks using feature relationships, dimensionality reduction, and clustering. Trained a variational autoencoder to explore the underlying structure of music features.",
     category: "Machine Learning / Data Science",
-    technologies: ["Python", "PCA", "UMAP", "GMM", "VAE"],
+    technologies: ["Python", "PyTorch", "PCA", "UMAP", "GMM", "VAE"],
     metrics: ["114K tracks", "114 genres", "3D latent space"],
     accent: "bg-[#F1EBDD]",
     image: "/Images/spotify-umap.png",
+    github: "https://github.com/ZebaAfreen02/Structural-Analysis-of-Spotify-Tracks-Dataset",
   },
   {
     number: "03",
@@ -37,7 +39,7 @@ const featuredProjects = [
     metrics: ["47,570 samples", "200 mazes", "3 policies"],
     accent: "bg-[#E8EEEA]",
     image: "/Images/robot-localization-concept.png",
-    github: "https://github.com/sridevi-mr25/Space-Rats",
+    github: "https://github.com/ZebaAfreen02/Bot-Localization",
   },
   {
     number: "04",
@@ -50,7 +52,7 @@ const featuredProjects = [
     metrics: ["Full-stack application", "Automatic bidding", "Role-based access"],
     accent: "bg-[#E8EDF2]",
     image: "/Images/justbidit-marketplace.png",
-    github: "https://github.com/shashwatijha/JustBidIt",
+    github: "https://github.com/ZebaAfreen02/JustBidIt",
     demo: "https://youtu.be/2yrfb0eTMiA",
   },
   {
@@ -73,6 +75,7 @@ const featuredProjects = [
   ],
   accent: "bg-[#E5EAE4]",
   image: "/Images/netflix-rent-vs-own.png",
+  github: "https://github.com/ZebaAfreen02/cloud-vs-owned-infrastructure",
 },
 
   

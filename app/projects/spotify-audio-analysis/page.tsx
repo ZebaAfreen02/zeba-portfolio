@@ -10,6 +10,7 @@ export const metadata = {
 
 const technologies = [
   "Python",
+  "PyTorch",
   "PCA",
   "UMAP",
   "Gaussian Mixture Models",
@@ -74,6 +75,16 @@ export default function SpotifyAudioAnalysisPage() {
                 {technology}
               </span>
             ))}
+          </div>
+          <div className="mt-8">
+            <a
+              href="https://github.com/ZebaAfreen02/Structural-Analysis-of-Spotify-Tracks-Dataset"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 rounded-lg bg-[#202728] px-6 py-4 text-sm font-medium text-white transition-colors hover:bg-[#668B81]"
+            >
+              View GitHub ↗
+            </a>
           </div>
         </header>
 

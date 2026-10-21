@@ -85,7 +85,7 @@ export default function RobotLocalizationPage() {
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <a
-              href="https://github.com/sridevi-mr25/Space-Rats"
+              href= "https://github.com/ZebaAfreen02/Bot-Localization"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg bg-[#202728] px-5 py-3 text-sm font-medium text-white transition-colors hover:bg-[#668B81]"
@@ -259,22 +259,6 @@ export default function RobotLocalizationPage() {
               work together, even when a robot has no direct
               observation of its location.
             </p>
-          </section>
-
-          <section>
-            <SectionHeading number="07" title="Explore the Project" />
-            <p className="mt-5 leading-8 text-[#52605D]">
-              Explore the implementation and experiments
-              in the project repository.
-            </p>
-            <a
-              href="https://github.com/sridevi-mr25/Space-Rats"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-5 inline-block text-sm font-semibold text-[#668B81] transition-colors hover:text-[#202728]"
-            >
-              GitHub repository ↗
-            </a>
           </section>
         </div>
 

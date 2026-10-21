@@ -83,7 +83,7 @@ export default function OnlineAuctionPage() {
 
           <div className="mt-8 flex flex-wrap gap-3">
             <a
-              href="https://github.com/shashwatijha/JustBidIt"
+              href="https://github.com/ZebaAfreen02/JustBidIt"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg bg-[#202728] px-5 py-3 text-sm font-medium text-white transition-colors hover:bg-[#668B81]"
@@ -257,34 +257,6 @@ export default function OnlineAuctionPage() {
               simultaneous bid submissions and strengthen
               transaction handling for concurrent activity.
             </p>
-          </section>
-
-          <section>
-            <SectionHeading number="07" title="Explore the Project" />
-            <p className="mt-5 leading-8 text-[#52605D]">
-              The source code and recorded walkthrough
-              provide a closer look at the application&apos;s
-              features and implementation.
-            </p>
-
-            <div className="mt-6 flex flex-wrap gap-4">
-              <a
-                href="https://github.com/shashwatijha/JustBidIt"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-sm font-semibold text-[#668B81] hover:text-[#202728]"
-              >
-                GitHub repository ↗
-              </a>
-              <a
-                href="https://youtu.be/2yrfb0eTMiA"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-sm font-semibold text-[#668B81] hover:text-[#202728]"
-              >
-                Recorded demo ↗
-              </a>
-            </div>
           </section>
         </div>
 

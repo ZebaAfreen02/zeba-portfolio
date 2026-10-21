@@ -102,6 +102,16 @@ export default function CloudVsOwnedPage() {
           <p className="mt-5 text-sm text-[#66716D]">
             Academic team project · 5 contributors · May 2026
           </p>
+                    <div className="mt-7 flex flex-wrap gap-3">
+            <a
+              href="https://github.com/ZebaAfreen02/cloud-vs-owned-infrastructure"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 rounded-lg bg-[#202728] px-5 py-3 text-sm font-medium text-white transition-colors hover:bg-[#34413F]"
+            >
+              View GitHub <span aria-hidden="true">↗</span>
+            </a>
+          </div>
         </header>
 
         <figure className="mt-14 overflow-hidden rounded-2xl border border-[#DFE4E0] bg-white p-5 md:p-10">

@@ -10,7 +10,7 @@ export const metadata = {
 
 const technologies = [
   "Python",
-  "TensorFlow",
+  "PyTorch",
   "U-Net",
   "Computer Vision",
   "Medical Imaging",
@@ -79,6 +79,16 @@ export default function BrainTumorSegmentationPage() {
                 {technology}
               </span>
             ))}
+          </div>
+          <div className="mt-8">
+            <a
+              href="https://github.com/ZebaAfreen02/Brain-Tumor-Segmentation"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 rounded-lg bg-[#202728] px-6 py-4 text-sm font-medium text-white transition-colors hover:bg-[#668B81]"
+            >
+              View GitHub ↗
+            </a>
           </div>
         </header>
 
